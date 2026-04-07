@@ -1,8 +1,4 @@
-**Initialization:$$\hat{h}(0) = \text{zeros}(p)$$**
-
-$$
-\hat{h}(0) = \text{zeros}(p)
-$$
+**Initialization:**$$\hat{h}(0) = \text{zeros}(p)$$
 
 **Computation:** For \( n = 0, 1, 2, \ldots \)
 
