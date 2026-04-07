@@ -1,4 +1,4 @@
-**Initialization:**
+**Initialization:\hat{h}(0) = \text{zeros}(p)**
 
 $$
 \hat{h}(0) = \text{zeros}(p)
