@@ -2,9 +2,7 @@
 
 **Computation:** For n = 0, 1, 2, ... 
 
-$$
-x(n) = [x(n), x(n-1), \ldots, x(n-p+1)]^T
-$$
+               $$x(n) = [x(n), x(n-1), \ldots, x(n-p+1)]^T$$
 
 $$
 e(n) = d(n) - \hat{h}^H(n)x(n)
